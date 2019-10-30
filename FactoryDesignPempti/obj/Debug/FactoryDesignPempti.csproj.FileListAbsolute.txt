@@ -1,0 +1,2 @@
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\FactoryDesignPempti\obj\Debug\FactoryDesignPempti.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\FactoryDesignPempti\obj\Debug\FactoryDesignPempti.csproj.CoreCompileInputs.cache

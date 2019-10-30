@@ -1,0 +1,44 @@
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Services.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Services.pdb
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\obj\Debug\ThunderCats.Services.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\obj\Debug\ThunderCats.Services.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\obj\Debug\ThunderCats.Services.pdb
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Services.dll.config
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\EntityFramework.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Database.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Entities.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Database.pdb
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Database.dll.config
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\ThunderCats.Entities.pdb
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\EntityFramework.xml
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\obj\Debug\ThunderCats.Services.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Services\obj\Debug\ThunderCats.Services.csproj.CopyComplete
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Services.dll.config
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Services.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Services.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\EntityFramework.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Database.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Entities.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Database.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Database.dll.config
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\ThunderCats.Entities.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\EntityFramework.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\obj\Debug\ThunderCats.Services.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\obj\Debug\ThunderCats.Services.csproj.CopyComplete
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\obj\Debug\ThunderCats.Services.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\obj\Debug\ThunderCats.Services.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Services\bin\Debug\System.Web.WebPages.Deployment.xml

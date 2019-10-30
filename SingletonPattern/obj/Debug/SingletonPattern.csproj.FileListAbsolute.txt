@@ -1,0 +1,7 @@
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\SingletonPattern\obj\Debug\SingletonPattern.pdb

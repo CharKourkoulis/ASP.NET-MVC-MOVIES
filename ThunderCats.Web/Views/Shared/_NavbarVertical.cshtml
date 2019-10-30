@@ -1,0 +1,96 @@
+﻿@using Microsoft.AspNet.Identity
+
+@if (Request.IsAuthenticated)
+{
+    <div id="sidebar">
+
+        <div class="toggle-btn" onclick="toggleSidebar()">
+            <a>
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+            </a>
+
+        </div>
+      
+        <ul>
+            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+            <li>@Html.ActionLink("About", "About", "Home")</li>
+            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            <li>@Html.ActionLink("Actors", "Index", "Actor")</li>
+            <li>@Html.ActionLink("Directors", "Index", "Director")</li>
+            <li>@Html.ActionLink("Movies", "Index", "Movie")</li>
+            <li>@Html.ActionLink("Categories", "Index", "Category")</li>
+
+            <br />
+            <li>@Html.ActionLink("Chat", "Chat", "Home")</li>
+        </ul>
+
+        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+        {
+            @Html.AntiForgeryToken()
+            <ul>
+                <li>
+                    @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                </li>
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+            </ul>
+        }
+    </div>
+}
+else
+{
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div>
+                    @Html.ActionLink("Cool Movies", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                    @Html.Partial("_LoginPartial")
+
+                    @Html.ActionLink("Paypal", "PaymentWithPaypal", "Home", null, new { @class = "navbar-brand" })
+                </div>
+            </div>
+    
+               
+                @*<div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("Movies", "Index", "Movie")</li>
+                <li>@Html.ActionLink("About", "About", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>*@
+                @*<ul class="add-button">
+            <li class="sub-button tl">@Html.ActionLink("H", "Index", "Home")</li>
+            <li class="sub-button tr"> @Html.ActionLink("M", "Index", "Movie")</li>
+            <li class="sub-button bl"> @Html.ActionLink("A", "About", "Home")</li>
+            <li class="sub-button br"> @Html.ActionLink("C", "Contact", "Home")</li>
+        </ul>*@
+
+                <div class="add-button">
+                    @Html.ActionLink("H", "Index", "Home", null, new { @class = "sub-button tl" })
+                    @Html.ActionLink("M", "Index", "Movie", null, new { @class = "sub-button tr" })
+                    @Html.ActionLink("A", "About", "Home", null, new { @class = "sub-button bl" }))
+                    @Html.ActionLink("C", "Contact", "Home", null, new { @class = "sub-button br" })
+
+                </div>
+
+
+            </div>
+    </div>
+
+
+
+}
+
+
+

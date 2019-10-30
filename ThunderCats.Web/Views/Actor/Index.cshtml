@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ThunderCats.Entities.Actor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Actors</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+    <br />
+</p>
+
+
+@using (Html.BeginForm())
+{
+    <p>
+        Title: @Html.TextBox("searchActor", null, new { @class = "searchactor", placeholder = "Search by Name..." })
+        <input type="submit" value="Search" id="searchActorButton" class="btn btn-warning" />
+    </p>
+}
+
+
+
+
+
+
+@foreach (var item in Model)
+{
+        <div class="col-sm-4">
+            <div class="thumbnail">
+                <img src="~/Images/conan.jpg" alt="/">
+                <p><strong> @item.Name </strong></p>
+                    <p> Age: @item.Age </p>
+                         
+                    <div>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class="btn btn-success"}) 
+                        @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class="btn btn-info"}) 
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class="btn btn-danger"})
+                    </div>
+            </div>
+        </div>
+
+
+ }

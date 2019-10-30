@@ -1,0 +1,38 @@
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\ThunderCats.Database.dll.config
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\ThunderCats.Database.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\ThunderCats.Database.pdb
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\EntityFramework.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\ThunderCats.Entities.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\ThunderCats.Entities.pdb
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\EntityFramework.xml
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\obj\Debug\ThunderCats.Database.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\obj\Debug\ThunderCats.Database.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\obj\Debug\ThunderCats.Database.csproj.CopyComplete
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\obj\Debug\ThunderCats.Database.dll
+C:\Users\Babis\Desktop\C# PART_B\01.10\DiscoBol\ThunderCats.Database\obj\Debug\ThunderCats.Database.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\ThunderCats.Database.dll.config
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\ThunderCats.Database.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\ThunderCats.Database.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\EntityFramework.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\ThunderCats.Entities.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\ThunderCats.Entities.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\EntityFramework.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\obj\Debug\ThunderCats.Database.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\obj\Debug\ThunderCats.Database.csproj.CopyComplete
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\obj\Debug\ThunderCats.Database.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\obj\Debug\ThunderCats.Database.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.Mvc.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.WebPages.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.Razor.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.Mvc.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.WebPages.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.Razor.xml
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\ThunderCats.Database\bin\Debug\System.Web.WebPages.Deployment.xml

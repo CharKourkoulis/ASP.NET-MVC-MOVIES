@@ -1,0 +1,10 @@
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\bin\Debug\Test.exe.config
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\bin\Debug\Test.exe
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\bin\Debug\Test.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\bin\Debug\Logger.dll
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\bin\Debug\Logger.pdb
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\obj\Debug\Test.exe
+C:\Users\Babis\Desktop\DiscoBol_FrontDivs\Test\obj\Debug\Test.pdb
